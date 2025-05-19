@@ -15,10 +15,8 @@ User Identification: Allows users to set their username for personalized interac
 # Prerequisites
 Python 3.x
 Required Python libraries:
-socket
-threading
-tkinter (standard with Python)
-ttk (for styled widgets)
+
+
 # Installation
 Clone the repository:
 
